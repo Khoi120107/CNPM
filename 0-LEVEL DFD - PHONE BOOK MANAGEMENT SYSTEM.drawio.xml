@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Trang-1" id="A6r1yyaDNqavn3T4IJnz">
+    <mxGraphModel dx="1035" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kzRI9LCnWoMH7wcQ8CKj-12" edge="1" parent="1" source="kzRI9LCnWoMH7wcQ8CKj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;entryX=1.022;entryY=0.83;entryDx=0;entryDy=0;entryPerimeter=0;" target="kzRI9LCnWoMH7wcQ8CKj-2">
+          <mxGeometry relative="1" x="-0.0955" as="geometry">
+            <Array as="points">
+              <mxPoint x="397.6" y="210" />
+              <mxPoint x="250" y="210" />
+            </Array>
+            <mxPoint x="130" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kzRI9LCnWoMH7wcQ8CKj-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="160" width="160" x="380" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kzRI9LCnWoMH7wcQ8CKj-11" edge="1" parent="1" source="kzRI9LCnWoMH7wcQ8CKj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="kzRI9LCnWoMH7wcQ8CKj-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="140" />
+              <mxPoint x="330" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kzRI9LCnWoMH7wcQ8CKj-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="User" vertex="1">
+          <mxGeometry height="120" width="80" x="40" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kzRI9LCnWoMH7wcQ8CKj-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Account Info, Contact and Group Data, Search Keywords, Import File" vertex="1">
+          <mxGeometry height="30" width="270" x="130" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TpImCmZr9CQdX0nV5ZOj-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;u&gt;0.0&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Phone Book Management System&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="410" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="TpImCmZr9CQdX0nV5ZOj-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Nguyễn Lâm Phúc Hậu MSSV&amp;nbsp; 082207001311" vertex="1">
+          <mxGeometry height="30" width="160" x="30" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="TpImCmZr9CQdX0nV5ZOj-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="0-LEVEL DFD - PHONE BOOK MANAGEMENT SYSTEM" vertex="1">
+          <mxGeometry height="30" width="340" x="90" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XDGgUlkUP_lYMyEXpfhh-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Auth Status, Contact List, Update Status, Export File" vertex="1">
+          <mxGeometry height="30" width="260" x="130" y="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
